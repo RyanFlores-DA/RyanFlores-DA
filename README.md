@@ -1,10 +1,9 @@
-- 👋 
-- 👀 
-- 🌱 
-- 💞️ 
-- 📫 
+- NODE JS - JAVA - PHP - PYTHON - *Android*
+- HTML/CSS - JAVASCRIPT
+- MYSQL - Postgres - PLPSQL
+- Firebase - Heroku - AWS - Google Cloud
+- Figma
 
 <!---
-RyanFlores-DA/RyanFlores-DA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Aprendendo tudo o que der
 --->
