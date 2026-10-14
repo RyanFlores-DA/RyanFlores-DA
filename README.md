@@ -1,50 +1,7 @@
-# Ryan Flores - Desenvolvedor de Software 👨‍💻
+Engenheiro de software com foco em automação de pipelines ETL e integração de sistemas em produção.
 
-Sou Ryan, tenho 23 anos, oficialmente desenvolvedor de software desde os 19, porém curioso desde os 15 quando comecei a escola técnica. Atualmente trabalho como Engenheiro de Software na empresa BR Consultoria. Lido todos os dias com linguagens como PL/PGSQL, NodeJS e Shell. Faço alguns projetos nas horas vagas e procuro sempre aprender algo novo. Há algum tempo penso em algo que possa realmente ajudar as pessoas que mais precisam, as ideias são muitas, porém uma hora chego lá e junto todas elas... 🌎
+Na BR Consultoria, desenvolvo e mantenho pipelines de dados com Airflow, automações em Python e Shell Script, e procedures em PL/SQL — operando sobre bases com múltiplos tenants e volumes expressivos de transações. Meu trabalho atravessa desde a extração e transformação de dados até a observabilidade com Elasticsearch e Kibana.
 
-## Confira meu [Portifólio]()
+Grande atuação em reconciliação financeira, integrações via API e ferramentas que reduzem fricção operacional para times de dados.
 
-## Linguagens de Programação
-
-### Front-end
-- PHP
-- HTML/CSS 
-- Javascript
-- ReactJs
-
-
-### Back-end
-- Node.js
-- Python
-- Java
-- C
-- Shell Script
-- PL/pgSQL
-
-
-## Sistemas Operacionais
-
-- Windows
-- Linux (Ubuntu/CentOS)
-
-## Cloud
-
-### Criação de Scripts em Shell
-- Desenvolvimento de scripts para automação de tarefas no servidor.
-
-### Configurações Essenciais
-- Definição de permissões de usuários e grupos.
-- Criação de pastas e gerenciamento de arquivos.
-- Configurações de segurança.
-
-### Servidores Web
-- Apache
-- Nginx
-
-### Gerenciamento de Processos
-- PM2
-
-### Banco de Dados
-
-- PostgreSQL
-- MySQL
+Formado em Análise e Desenvolvimento de Sistemas — UNIT.
